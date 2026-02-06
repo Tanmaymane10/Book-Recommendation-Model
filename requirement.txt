@@ -1,5 +1,6 @@
 streamlit
 numpy
+pandas
 
-#local packages
+# local packages
 -e .
